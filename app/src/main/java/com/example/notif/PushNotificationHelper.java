@@ -11,6 +11,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class PushNotificationHelper {
+    //PUT YOUR OWN API KEY 
     public final static String AUTH_KEY_FCM = "AAAAZ6fgSts:APA91bHk4WXNfl0SJ47sXHrxkTumnXAAMwpN1MQn1YYdkfO8kP3qn2DiCQo1bko6OkegZLRoojzyflTsdO2vQkXMJ-5e4pkVcrb-rm2z_O8FiC6RATWwRRf9wh8GYfc_y5htUnNyZuCL";
     public final static String API_URL_FCM = "https://fcm.googleapis.com/fcm/send";
 
